@@ -1,0 +1,11 @@
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculater\bin\Debug\netcoreapp2.1\CardInterestCalculater.deps.json
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculater\bin\Debug\netcoreapp2.1\CardInterestCalculater.runtimeconfig.json
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculater\bin\Debug\netcoreapp2.1\CardInterestCalculater.runtimeconfig.dev.json
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculater\bin\Debug\netcoreapp2.1\CardInterestCalculater.dll
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculater\bin\Debug\netcoreapp2.1\CardInterestCalculater.pdb
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculater\obj\Debug\netcoreapp2.1\CardInterestCalculater.csprojAssemblyReference.cache
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculater\obj\Debug\netcoreapp2.1\CardInterestCalculater.csproj.CoreCompileInputs.cache
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculater\obj\Debug\netcoreapp2.1\CardInterestCalculater.AssemblyInfoInputs.cache
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculater\obj\Debug\netcoreapp2.1\CardInterestCalculater.AssemblyInfo.cs
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculater\obj\Debug\netcoreapp2.1\CardInterestCalculater.dll
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculater\obj\Debug\netcoreapp2.1\CardInterestCalculater.pdb

@@ -1,0 +1,17 @@
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\bin\Debug\netcoreapp2.1\CardInterestCalculaterTest.deps.json
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\bin\Debug\netcoreapp2.1\CardInterestCalculaterTest.runtimeconfig.json
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\bin\Debug\netcoreapp2.1\CardInterestCalculaterTest.runtimeconfig.dev.json
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\bin\Debug\netcoreapp2.1\CardInterestCalculaterTest.dll
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\bin\Debug\netcoreapp2.1\CardInterestCalculaterTest.pdb
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\bin\Debug\netcoreapp2.1\CardInterestCalculater.dll
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\bin\Debug\netcoreapp2.1\CardInterestCalculater.pdb
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\obj\Debug\netcoreapp2.1\CardInterestCalculaterTest.csprojAssemblyReference.cache
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\obj\Debug\netcoreapp2.1\CardInterestCalculaterTest.csproj.CoreCompileInputs.cache
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\obj\Debug\netcoreapp2.1\CardInterestCalculaterTest.AssemblyInfoInputs.cache
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\obj\Debug\netcoreapp2.1\CardInterestCalculaterTest.AssemblyInfo.cs
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\obj\Debug\netcoreapp2.1\CardInterestCalculaterTest.csproj.CopyComplete
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\obj\Debug\netcoreapp2.1\CardInterestCalculaterTest.dll
+C:\Users\Philip\source\repos\CardInterestCalculater\CardInterestCalculater\CardInterestCalculaterTewst\obj\Debug\netcoreapp2.1\CardInterestCalculaterTest.pdb
